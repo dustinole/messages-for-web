@@ -1,0 +1,16 @@
+{
+  "name": "google-messages-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.7",
+    "electron-store": "^8.0.1"
+  }
+}
